@@ -41,7 +41,7 @@ body {
 	//background-color:#ffffff;
 	padding-left:40px;
 	padding-right:40px;
-	padding-bottom:40px;
+	padding-bottom:5vh;
     transform: rotateY(  0deg ) translateZ( 75px );
     background-color:white;
 }
@@ -114,8 +114,7 @@ hr{
 }
 
 .footer2{
-	margin-top:5vh;
-	margin-bottom:1vh;
+	margin-top:2.5vh;
 }
 
 .logo {

@@ -37,7 +37,7 @@
 			<h1>SCCA</h1><p class='twenty'>2017</p>
 		</div>
 		<div class="col-md-12 col-s-12 col-xs-12" style="height:auto; margin-bottom:5vh;"> <!--height auto replaces style="height: 15vh;"-->
-			<p id='description'>The graduating class of Seattle Central Creative Academy is proud to present Portshowlio 2017. Over the past two years, students have been honing their abilities in an intensive learning environment, preparing to take on the creative industry. Portshowlio is both a visual presentation and a curated experience. From photography to design, whether utilizing traditional techniques or exploring future-facing technology, this group of talented graduates is anything but one-dimensional. This show captures the many facets of their collaboration and dedication.</p>
+			<p id='description'>The graduating class of Seattle Central Creative Academy is proud to present Portshowlio 2017. From photography to design, this group of talented graduates is anything but one-dimensional. This show captures the many facets of their collaboration and dedication.</p>
 		</div>
 	</div>
 

@@ -74,7 +74,7 @@
 
 			<div class="col-md-7 col-xs-7">
 				<h4>Seattle Central Creative Academy</h4>
-				<h4>1700 Broadway Ave Seattle, WA 98122</h4>
+				<h4>1701 Broadway Ave Seattle, WA 98122</h4>
 			</div>
 		</div>
 	</div>

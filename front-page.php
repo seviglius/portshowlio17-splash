@@ -36,7 +36,7 @@
 		<div class="col-xs-6">
 			<h1>SCCA</h1><p class='twenty'>2017</p>
 		</div>
-		<div class="col-md-12 col-s-12 col-xs-12" style="height:auto; margin-bottom:5vh;"> <!--height auto replaces style="height: 15vh;"-->
+		<div class="col-md-12 col-s-12 col-xs-12" style="height:10vh;"> <!--height auto replaces style="height: 15vh;"-->
 			<p id='description'>The graduating class of Seattle Central Creative Academy is proud to present Portshowlio 2017. From photography to design, this group of talented graduates is anything but one-dimensional. This show captures the many facets of their collaboration and dedication.</p>
 		</div>
 	</div>

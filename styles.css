@@ -77,7 +77,8 @@ font-family: "NeueHeavy", sans-serif;
 
 p {
 	margin-bottom:0vh;
-	    font-size: 1.5vh;
+	    font-size: 1.5cd ..
+        vh;
 }
 
 .twenty {
@@ -91,6 +92,7 @@ hr{
 	width:100%;
 	margin-bottom:0px;
     display: inline-block;
+    margin-top:0px;
 }
 
 .footer2{
